@@ -19,18 +19,18 @@ body{
     width: 400px;
     height: 250px;
     border-radius: 8px;
-    padding: 40px;
+    padding: 41px;
 }
 
 .header h1{
-    font-size: 24px;
+    font-size: 25px;
     font-weight: 500px;
     margin-bottom: 6px;
     margin-top: 6px;
 }
 
 .header p{
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 10px;
 }
 
