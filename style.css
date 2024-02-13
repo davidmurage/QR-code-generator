@@ -30,7 +30,7 @@ body{
 }
 
 .header p{
-    font-size: 15px;
+    font-size: 14px;
     margin-bottom: 11px;
 }
 
@@ -44,7 +44,7 @@ input, button{
 button{
     border: none;
     background-color: #1d68d8;
-    font-size: 16px;
+    font-size: 15px;
     color: #fff;
     cursor: pointer;
 }
