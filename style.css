@@ -25,12 +25,12 @@ body{
 .header h1{
     font-size: 25px;
     font-weight: 500px;
-    margin-bottom: 6px;
-    margin-top: 6px;
+    margin-bottom: 7px;
+    margin-top: 8px;
 }
 
 .header p{
-    font-size: 15px;
+    font-size: 14px;
     margin-bottom: 12px;
 }
 
